@@ -1,4 +1,4 @@
-# 191983-Juan-Arevalo-iac-aws
+#191983-Juan-Arevalo-iac-aws
 
 Proyecto del taller de Cloud Computing (Ingeniería de Sistemas – UFPSO).
 
@@ -21,6 +21,6 @@ personalizada. La infraestructura está definida en `templates/template.yaml`
 
 ## Sitio web desplegado
 
-http://13.222.133.253/
+http://IP_PUBLICA
 
 (La IP cambia si la instancia se vuelve a crear.)
