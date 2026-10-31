@@ -1,4 +1,4 @@
-# 191923-Juan-Perez-iac-aws
+# 191983-Juan-Arevalo-iac-aws
 
 Proyecto del taller de Cloud Computing (Ingeniería de Sistemas – UFPSO).
 
@@ -15,8 +15,8 @@ personalizada. La infraestructura está definida en `templates/template.yaml`
 
 ## Estudiante
 
-- Nombre: Juan Jose Perez Gomez
-- Código: 0191923
+- Nombre: Juan Diego Arevalo Arevalo    
+- Código: 0191983
 - Docente: Wilder Andrés Duarte Neira
 
 ## Sitio web desplegado
